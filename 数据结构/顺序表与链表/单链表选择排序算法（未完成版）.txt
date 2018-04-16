@@ -1,0 +1,18 @@
+/*
+Ñ¡ÔñÅÅÐò
+LNode *p,*q;
+ElemType t;
+p=L->next;
+
+for(q=p->next;q!=NULL;q=q->next)
+{
+	if(p->data>q->data)
+	{
+		½»»» 
+	}
+}
+p=p->next;
+
+ 
+
+*/
